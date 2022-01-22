@@ -2,6 +2,7 @@ public class Arrays_multi_lesson_thirteen {
     public static void main(String[] args) {
         int[] numbers = {1,2,3};
 
+        System.out.println("The new line is here");
 
         int [][] matrice = {{1,2,3},
                             {4,5,6},
